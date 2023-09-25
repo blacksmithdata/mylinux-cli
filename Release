@@ -1,2 +1,1 @@
 deb [trusted=yes] https://github.com/blacksmithdata/mylinux-cli/ deb/
-# deb [trusted=yes] file:///root/repos/blacksmith-cli/ deb/
