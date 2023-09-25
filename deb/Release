@@ -1,7 +1,7 @@
 Archive: https://github.com/blacksmithdata/mylinux-cli/
 Origin: github.com
 Label: mylinux-cli
-Suite: alpine1.0.2
+Suite: deb/
 Codename: alpine1.0.2
 Architectures: amd64
 Components: main
