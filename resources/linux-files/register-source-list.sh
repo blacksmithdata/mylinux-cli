@@ -10,4 +10,3 @@ else
   echo "deb [trusted=yes] https://raw.githubusercontent.com/blacksmithdata/mylinux-cli/master/ linux/mylinux-cli/alpine/" > /etc/apt/sources.list.d/mylinux-cli.list
   echo "deb [trusted=yes] https://raw.githubusercontent.com/blacksmithdata/mylinux-cli/master/ linux/blacksmith-cli/alpine/" > /etc/apt/sources.list.d/blacksmith-cli.list
 fi
-
