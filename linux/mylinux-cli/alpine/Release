@@ -1,12 +1,12 @@
 Archive: https://github.com/blacksmithdata/mylinux-cli/
 Origin: github.com
 Label: mylinux-cli
-Suite: alpine1.0.0
-Codename: alpine1.0.0
+Suite: alpine
+Codename: alpine
 Architectures: amd64
 Components: main
 Description: My Linux CLI App
 MD5sum: 0ea4a12165d4958ce7faca612a900789
 SHA1: 8cd72a78eadd51be952e2d431448a368a8a0cd7e
 SHA256: 7f696c50ad27a0ea22af8f243744877b5c74a9b1ce86218d3c85671f5d3e1160
-Date: Thu, 20 Oct 2022 19:47:56 UTC
+Date: Thu, 26 Sep 2023 19:47:56 UTC
