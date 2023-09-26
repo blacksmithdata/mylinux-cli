@@ -2,7 +2,7 @@ Package: mylinux-cli
 Version: 1.0.0
 Architecture: amd64
 Maintainer: shah-l|nux<shahzshafie@outlook.com>
-Filename: alpine/mylinux-cli.deb
+Filename: linux/mylinux-cli/alpine/mylinux-cli.deb
 Size: 28836226
 MD5sum: 0ea4a12165d4958ce7faca612a900789
 SHA1: 8cd72a78eadd51be952e2d431448a368a8a0cd7e

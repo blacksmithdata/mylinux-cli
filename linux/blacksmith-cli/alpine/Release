@@ -1,1 +1,12 @@
-deb [trusted=yes] https://github.com/blacksmithdata/mylinux-cli/ debian-blacksmith-cli/
+Archive: https://github.com/blacksmithdata/mylinux-cli/
+Origin: github.com
+Label: blacksmith-cli
+Suite: linux/blacksmith-cli/alpine
+Codename: linux/blacksmith-cli/alpine
+Architectures: amd64
+Components: main
+Description: Blacksmith CLI for Blacksmith Platform
+MD5sum: c7e20b67b8f5a52bba6e09f216175b82
+SHA1: ae7173fa1e2478bfea1f1d5687ac3334be7cd6f3
+SHA256: afd5964aec27fba0140512872633a258180ec502f5b66656ff93b006b38a0a35
+Date: Thu, 26 Sep 2023 19:47:56 UTC

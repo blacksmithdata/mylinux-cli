@@ -1,8 +1,8 @@
 Archive: https://github.com/blacksmithdata/mylinux-cli/
 Origin: github.com
 Label: mylinux-cli
-Suite: alpine
-Codename: alpine
+Suite: linux/mylinux-cli/alpine
+Codename: linux/mylinux-cli/alpine
 Architectures: amd64
 Components: main
 Description: My Linux CLI App
