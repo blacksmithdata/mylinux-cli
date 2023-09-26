@@ -2,7 +2,7 @@ Package: blacksmith-cli
 Version: 0.12.3
 Architecture: amd64
 Maintainer: Shah Z. S <shah@blacksmithdata.io>
-Filename: debian-blacksmith-cli/blacksmith-cli.deb
+Filename: linux/blacksmith-cli/alpine//blacksmith-cli.deb
 Size: 29339108
 MD5sum: c7e20b67b8f5a52bba6e09f216175b82
 SHA1: ae7173fa1e2478bfea1f1d5687ac3334be7cd6f3
