@@ -1,12 +1,13 @@
-Archive: https://github.com/blacksmithdata/mylinux-cli/
-Origin: github.com
-Label: mylinux-cli
-Suite: linux/mylinux-cli/alpine
-Codename: linux/mylinux-cli/alpine
-Architectures: amd64
-Components: main
-Description: My Linux CLI App
-MD5sum: 0ea4a12165d4958ce7faca612a900789
-SHA1: 8cd72a78eadd51be952e2d431448a368a8a0cd7e
-SHA256: 7f696c50ad27a0ea22af8f243744877b5c74a9b1ce86218d3c85671f5d3e1160
-Date: Thu, 26 Sep 2023 19:47:56 UTC
+Date: Mon, 02 Oct 2023 07:05:23 +0000
+MD5Sum:
+ 85ab0ae394da5fd54ed74024c2c7097e              518 Packages
+ 3ecfeeb14107310d4ee1d991d6fe65b2               38 Release
+SHA1:
+ 3d0897e21d86c47918984808d2159a6c105353a8              518 Packages
+ f9fdb8c5db562a09a708bc1ebad61ad30dfec57f               38 Release
+SHA256:
+ befe9c22155336768e0049024b187b097796f8975d197f53a0209d13c19577ac              518 Packages
+ 3314a8de404811ad1833944b5ba069b63e4b2db4cbfba5c82fd4f98ee9f2a608               38 Release
+SHA512:
+ 335626e92faac469d27889eee5061edaa7c1273ddbf2afc8f06f9a8cdd6c42438bde925c486a39f735d0586cee95054e15be782dbef6938b205a4a49a2ed05e1              518 Packages
+ 96fc47356e78d2fcb26044ba2d453231e4bf0c2b18a6a5b2bbab2ea48afefc51082016c580a7bca82d1d04134238af7dfbf467cf82ad82b891386928bdbcd0f5               38 Release
